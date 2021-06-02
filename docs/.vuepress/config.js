@@ -33,7 +33,7 @@ module.exports = {
           '/chapter02/class/',
           '/chapter02/function/',
           '/chapter02/generic/',
-          '/chapter02/interface/',
+          '/chapter02/inference/',
           '/chapter02/advance/',
         ],
       },
